@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3e26000-cfde-4088-8214-52980dd06a7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Project_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_3A.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project_3B.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/.cvsignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/.dir-locals.el" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/.gdbinit.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/BUGS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/Makefile.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/TRICKS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/asm.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/bio.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/bootasm.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/bootmain.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/buf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/cat.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/console.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/cuth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/date.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/defs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/dot-bochsrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/echo.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/elf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/entry.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/entryother.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/exec.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/fcntl.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/file.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/file.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/forktest.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/fs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/fs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/gdbutil" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/grep.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/ide.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/init.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/initcode.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/ioapic.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/kalloc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/kbd.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/kbd.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/kernel.ld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/kill.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/lapic.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/ln.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/log.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/ls.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/memide.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/memlayout.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/mkdir.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/mkfs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/mmu.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/mp.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/mp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/my_tests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/param.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/picirq.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/pipe.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/pr.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/printf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/printpcs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/proc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/proc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/rm.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/runoff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/runoff.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/runoff.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/runoff1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/sh.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/show1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/sign.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/sleep1.p" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/sleeplock.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/sleeplock.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/spinlock.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/spinlock.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/spinp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/stat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/stressfs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/string.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/swtch.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/syscall.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/syscall.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/sysfile.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/sysproc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/test_1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/test_10.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/test_2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/test_3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/test_4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/test_5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/test_6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/test_7.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/test_8.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/test_9.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/test_null_pointer.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/toc.ftr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/toc.hdr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/trap.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/trapasm.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/traps.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/types.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/uart.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/ulib.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/umalloc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/user.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/usertests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/usys.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/vectors.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/vm.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/wc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/x86.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/src/zombie.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/test-null-pages.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tester/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tester/run-tests.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tester/run-xv6-command.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tester/xv6-edit-makefile.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/1.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/1.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/10.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/10.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/10.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/2.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/2.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/2.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/3.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/3.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/3.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/4.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/4.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/4.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/5.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/5.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/5.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/6.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/6.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/6.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/7.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/7.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/7.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/8.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/8.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/8.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/9.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/9.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests-out/9.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/1.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/1.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/1.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/1.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/10.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/10.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/10.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/10.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/10.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/2.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/2.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/2.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/2.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/2.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/3.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/3.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/3.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/3.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/3.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/4.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/4.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/4.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/4.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/4.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/5.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/5.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/5.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/5.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/5.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/6.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/6.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/6.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/6.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/6.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/7.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/7.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/7.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/7.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/7.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/8.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/8.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/8.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/8.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/8.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/9.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/9.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/9.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/9.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/9.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/pre" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/test_1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/test_10.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/test_2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/test_3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/test_4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/test_5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/test_6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/test_7.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/test_8.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-null-pages/tests/test_9.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/.cvsignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/.dir-locals.el" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/.gdbinit.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/BUGS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/Makefile.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/TRICKS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/asm.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/bio.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/bootasm.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/bootmain.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/buf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/cat.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/console.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/cuth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/date.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/defs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/dot-bochsrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/echo.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/elf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/entry.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/entryother.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/exec.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/fcntl.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/file.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/file.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/forktest.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/fs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/fs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/gdbutil" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/grep.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/ide.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/init.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/initcode.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/ioapic.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/kalloc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/kbd.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/kbd.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/kernel.ld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/kill.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/lapic.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/ln.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/log.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/ls.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/memide.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/memlayout.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/mkdir.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/mkfs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/mmu.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/mp.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/mp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/param.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/picirq.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/pipe.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/pr.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/printf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/printpcs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/proc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/proc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/rm.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/root@10.211.55.18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/runoff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/runoff.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/runoff.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/runoff1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/sh.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/show1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/sign.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/sleep1.p" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/sleeplock.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/sleeplock.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/spinlock.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/spinlock.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/spinp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/stat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/stressfs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/string.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/swtch.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/syscall.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/syscall.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/sysfile.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/sysproc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/test_1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/test_2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/test_3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/test_4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/test_5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/test_6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/test_7.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/test_8.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/test_9.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/toc.ftr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/toc.hdr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/trap.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/trapasm.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/traps.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/types.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/uart.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/ulib.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/umalloc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/user.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/usertests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/usys.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/vectors.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/vm.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/wc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/x86.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src/zombie.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/.cvsignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/.dir-locals.el" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/.gdbinit.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/BUGS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/Makefile.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/TRICKS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/asm.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/bio.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/bootasm.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/bootmain.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/buf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/cat.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/console.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/cuth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/date.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/defs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/dot-bochsrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/echo.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/elf.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/entry.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/entryother.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/exec.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/fcntl.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/file.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/file.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/forktest.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/fs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/fs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/gdbutil" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/grep.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/ide.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/init.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/initcode.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/ioapic.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/kalloc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/kbd.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/kbd.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/kernel.ld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/kill.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/lapic.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/ln.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/log.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/ls.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/memide.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/memlayout.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/mkdir.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/mkfs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/mmu.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/mp.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/mp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/param.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/picirq.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/pipe.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/pr.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/printf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/printpcs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/proc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/proc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/rm.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/runoff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/runoff.list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/runoff.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/runoff1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/sh.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/show1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/sign.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/sleep1.p" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/sleeplock.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/sleeplock.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/spinlock.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/spinlock.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/spinp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/stat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/stressfs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/string.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/swtch.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/syscall.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/syscall.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/sysfile.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/sysproc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/test_1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/test_2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/test_3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/test_4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/test_5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/test_6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/test_7.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/test_8.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/toc.ftr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/toc.hdr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/trap.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/trapasm.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/traps.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/types.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/uart.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/ulib.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/umalloc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/user.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/usertests.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/usys.S" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/vectors.pl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/vm.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/wc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/x86.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/src_broken/zombie.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/test-threads.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tester/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tester/run-tests.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tester/run-xv6-command.exp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tester/xv6-edit-makefile.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/1.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/1.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/2.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/2.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/2.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/3.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/3.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/3.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/4.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/4.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/4.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/5.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/5.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/5.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/6.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/6.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/6.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/7.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/7.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/7.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/8.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/8.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests-out/8.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/1.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/1.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/1.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/1.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/2.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/2.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/2.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/2.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/2.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/3.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/3.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/3.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/3.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/3.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/4.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/4.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/4.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/4.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/4.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/5.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/5.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/5.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/5.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/5.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/6.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/6.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/6.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/6.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/6.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/7.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/7.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/7.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/7.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/7.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/8.desc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/8.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/8.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/8.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/8.run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/pre" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/test_1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/test_2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/test_3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/test_4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/test_5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/test_6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/test_7.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xv6-threads/tests/test_8.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j6oi2Lfu6pqWkNB7WniedrZ45f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xv6-threads" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xv6-threads/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xv6-threads" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GDB" type="CLion_Remote" remoteCommand="localhost:25000" symbolFile="$PROJECT_DIR$/xv6-threads/src/kernel" sysroot="$PROJECT_DIR$/xv6-threads/src">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="CLion_Remote" remoteCommand="" symbolFile="$PROJECT_DIR$/xv6-null-pages/src/kernel" sysroot="$PROJECT_DIR$/xv6-null-pages/src">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3e26000-cfde-4088-8214-52980dd06a7d" name="Default Changelist" comment="" />
+      <created>1603134027549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603134027549</updated>
+      <workItem from="1603134029247" duration="91778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="333" y="638" width="604" height="357" key="#Notifications" timestamp="1603405993655">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="333" y="638" width="604" height="357" key="#Notifications/0.27.2560.1573@0.27.2560.1573" timestamp="1603405993655" />
+    <state x="738" y="471" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603341338912">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="738" y="471" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.2560.1573@0.27.2560.1573" timestamp="1603341338912" />
+    <state x="354" y="615" width="562" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603394643072">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="354" y="615" width="562" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.2560.1573@0.27.2560.1573" timestamp="1603394643072" />
+    <state x="373" y="562" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603228269799">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="373" y="562" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.2560.1573@0.27.2560.1573" timestamp="1603228269799" />
+    <state x="1167" y="549" width="378" height="535" key="#xdebugger.XInspectDialog" timestamp="1603139220307">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="1167" y="549" width="378" height="535" key="#xdebugger.XInspectDialog/0.27.2560.1573@0.27.2560.1573" timestamp="1603139220307" />
+    <state x="1063" y="571" width="447" height="491" key="FileChooserDialogImpl" timestamp="1603406003768">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="1063" y="571" width="447" height="491" key="FileChooserDialogImpl/0.27.2560.1573@0.27.2560.1573" timestamp="1603406003768" />
+    <state x="496" y="713" width="612" height="301" key="Github.ShareDialog" timestamp="1603406175526">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="496" y="713" width="612" height="301" key="Github.ShareDialog/0.27.2560.1573@0.27.2560.1573" timestamp="1603406175526" />
+    <state x="479" y="500" width="311" height="633" key="Github.UntrackedFilesDialog" timestamp="1603406186136">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="479" y="500" width="311" height="633" key="Github.UntrackedFilesDialog/0.27.2560.1573@0.27.2560.1573" timestamp="1603406186136" />
+    <state width="1234" height="555" key="GridCell.Tab.0.bottom" timestamp="1603346147698">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state width="1234" height="555" key="GridCell.Tab.0.bottom/0.27.2560.1573@0.27.2560.1573" timestamp="1603346147698" />
+    <state width="1234" height="555" key="GridCell.Tab.0.center" timestamp="1603346147698">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state width="1234" height="555" key="GridCell.Tab.0.center/0.27.2560.1573@0.27.2560.1573" timestamp="1603346147698" />
+    <state width="1234" height="555" key="GridCell.Tab.0.left" timestamp="1603346147698">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state width="1234" height="555" key="GridCell.Tab.0.left/0.27.2560.1573@0.27.2560.1573" timestamp="1603346147698" />
+    <state width="1234" height="555" key="GridCell.Tab.0.right" timestamp="1603346147698">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state width="1234" height="555" key="GridCell.Tab.0.right/0.27.2560.1573@0.27.2560.1573" timestamp="1603346147698" />
+    <state width="1234" height="555" key="GridCell.Tab.1.bottom" timestamp="1603346147699">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state width="1234" height="555" key="GridCell.Tab.1.bottom/0.27.2560.1573@0.27.2560.1573" timestamp="1603346147699" />
+    <state width="1234" height="555" key="GridCell.Tab.1.center" timestamp="1603346147698">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state width="1234" height="555" key="GridCell.Tab.1.center/0.27.2560.1573@0.27.2560.1573" timestamp="1603346147698" />
+    <state width="1234" height="555" key="GridCell.Tab.1.left" timestamp="1603346147698">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state width="1234" height="555" key="GridCell.Tab.1.left/0.27.2560.1573@0.27.2560.1573" timestamp="1603346147698" />
+    <state width="1234" height="555" key="GridCell.Tab.1.right" timestamp="1603346147698">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state width="1234" height="555" key="GridCell.Tab.1.right/0.27.2560.1573@0.27.2560.1573" timestamp="1603346147698" />
+    <state x="129" y="448" width="1022" height="737" key="SettingsEditor" timestamp="1603159139516">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="129" y="448" width="1022" height="737" key="SettingsEditor/0.27.2560.1573@0.27.2560.1573" timestamp="1603159139516" />
+    <state x="235" y="549" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1603406320979">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="235" y="549" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.2560.1573@0.27.2560.1573" timestamp="1603406320979" />
+    <state x="1945" y="377" width="983" height="1529" key="dock-window-1" timestamp="1603146968010">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="1945" y="377" width="983" height="1529" key="dock-window-1/0.27.2560.1573@0.27.2560.1573" timestamp="1603146968010" />
+    <state x="2035" y="292" width="983" height="1528" key="dock-window-2" timestamp="1603167981162">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="2035" y="292" width="983" height="1528" key="dock-window-2/0.27.2560.1573@0.27.2560.1573" timestamp="1603167981162" />
+    <state x="1811" y="331" width="983" height="1528" key="dock-window-3" timestamp="1603321477848">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="1811" y="331" width="983" height="1528" key="dock-window-3/0.27.2560.1573@0.27.2560.1573" timestamp="1603321477848" />
+    <state x="2021" y="400" width="983" height="1528" key="dock-window-4" timestamp="1603399108323">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="2021" y="400" width="983" height="1528" key="dock-window-4/0.27.2560.1573@0.27.2560.1573" timestamp="1603399108323" />
+    <state x="1951" y="133" width="983" height="1528" key="dock-window-5" timestamp="1603403120990">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="1951" y="133" width="983" height="1528" key="dock-window-5/0.27.2560.1573@0.27.2560.1573" timestamp="1603403120990" />
+    <state x="330" y="422" width="620" height="783" key="find.popup" timestamp="1603404937998">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="330" y="422" width="620" height="783" key="find.popup/0.27.2560.1573@0.27.2560.1573" timestamp="1603404937998" />
+    <state x="1583" y="389" key="search.everywhere.popup" timestamp="1603342990789">
+      <screen x="0" y="27" width="2560" height="1573" />
+    </state>
+    <state x="1583" y="389" key="search.everywhere.popup/0.27.2560.1573@0.27.2560.1573" timestamp="1603342990789" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CLion_Remote">
+        <watch expression="thread_create" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
